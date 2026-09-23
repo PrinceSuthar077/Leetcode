@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/PrinceSuthar077/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/PrinceSuthar077/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrinceSuthar077/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Newton's Method
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/PrinceSuthar077/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrinceSuthar077/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
