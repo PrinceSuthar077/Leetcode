@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/PrinceSuthar077/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/PrinceSuthar077/Leetcode/tree/main/0069-sqrtx/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/PrinceSuthar077/Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0066-plus-one](https://github.com/PrinceSuthar077/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/PrinceSuthar077/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/PrinceSuthar077/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrinceSuthar077/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
