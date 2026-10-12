@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/PrinceSuthar077/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/PrinceSuthar077/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0231-power-of-two](https://github.com/PrinceSuthar077/Leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0258-add-digits](https://github.com/PrinceSuthar077/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/PrinceSuthar077/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/PrinceSuthar077/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PrinceSuthar077/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -134,4 +135,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/PrinceSuthar077/Leetcode/tree/main/0075-sort-colors/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/PrinceSuthar077/Leetcode/tree/main/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/PrinceSuthar077/Leetcode/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
