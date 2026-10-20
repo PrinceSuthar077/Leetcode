@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/PrinceSuthar077/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/PrinceSuthar077/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0441-arranging-coins](https://github.com/PrinceSuthar077/Leetcode/tree/main/0441-arranging-coins/) | Easy |
+| [0728-self-dividing-numbers](https://github.com/PrinceSuthar077/Leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PrinceSuthar077/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
